@@ -1,4 +1,4 @@
-# Project 2: Cloud Data Warehouse
+# Project: Cloud Data Warehouse
 
 ## Project Introduction
 
@@ -192,3 +192,5 @@ time
     ```
     python3 -m ipykernel install --user --name=‘udacity-dend‘ 
     ```
+    
+**Author: Saad Iqbal**
